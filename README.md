@@ -44,8 +44,8 @@ Para criar o projeto no Backstage, siga os passos abaixo:
 
     - Segue o link do repositório criado para o projeto Order Request API: 
       - [https://github.com/viavarejo-internal/order-request-api](https://github.com/viavarejo-internal/order-request-api)
-
-    <img src="images/GitHub1.png" alt="Repositório criado no GitHub" width="600px" />
+      
+      <img src="images/GitHub1.png" alt="Repositório criado no GitHub" width="600px" />
 
 
 ### 🛠️ Tecnologias Utilizadas
@@ -105,10 +105,6 @@ br.com.via.core
 ├── infrastructure  → Adaptadores de saída (banco, mensageria)
 └── utils           → Exceções, log e utilitários
 ```
-
----
-
-## 📂 Explicação dos Diretórios
 
 ### `api/` – Camada de Entrada
 
