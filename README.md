@@ -29,7 +29,7 @@ Para criar o projeto no Backstage, siga os passos abaixo:
    - **O repositótio dessa aplicação adotará uma arquitetura monorepo**: Não
    - **Clique em "Next"**.
 
-      <img src="images/Backstage1.png" alt="Criando o projeto no Backstage" width="600px" />
+      <img src="images/Backstage1.png" alt="Criando o projeto no Backstage" width="750px" />
 
  6. Uma sequência de passos será realizada automaticamente:
     - Criação do repositório no GitHub.
@@ -38,14 +38,14 @@ Para criar o projeto no Backstage, siga os passos abaixo:
     - Configuração de Helm para deploy em ambientes Kubernetes.
     - Ao concluir esse processo será apresentada uma tela de sucesso.
 
-      <img src="images/Backstage2.png" alt="Tela de sucesso do Backstage" width="600px" />
+      <img src="images/Backstage2.png" alt="Tela de sucesso do Backstage" width="800px" />
 
  7. Após a conclusão, o repositório será criado e você poderá acessá-lo diretamente no GitHub.
 
     - Segue o link do repositório criado para o projeto Order Request API: 
       - [https://github.com/viavarejo-internal/order-request-api](https://github.com/viavarejo-internal/order-request-api)
       
-      <img src="images/GitHub1.png" alt="Repositório criado no GitHub" width="600px" />
+      <img src="images/GitHub1.png" alt="Repositório criado no GitHub" width="800px" />
 
 
 ### 🛠️ Tecnologias Utilizadas
